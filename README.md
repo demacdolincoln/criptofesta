@@ -6,6 +6,6 @@ aprensentada durante um dos eventos mais legais que já fui, a [criptofesta](htt
 
 ---
 
-ver slides: [slides/index.html](slides/index.html)
+ver slides: [slides/index.html](https://demacdolincoln.github.io/criptofesta/slides/index.html)
 
 obs: renomeie o arquivo **config_examplo.yaml** para **config.yaml**, preencha as chaves e divirta-se :-)
